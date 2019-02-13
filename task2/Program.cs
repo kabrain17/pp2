@@ -23,9 +23,9 @@ namespace task2
         static void Main(string[] args)
         {
             Student s = new Student();
-            s.name = Convert.ToString(Console.ReadLine());
-            s.id = Convert.ToString(Console.ReadLine());
-            s.year_of_study = Convert.ToInt32(Console.ReadLine());
+            s.name = Convert.ToString(Console.ReadLine());//объявляем имя студента
+            s.id = Convert.ToString(Console.ReadLine()); //объявляем айди студента
+            s.year_of_study = Convert.ToInt32(Console.ReadLine());//указываем год обучение студента 
             s.PrintInfo();
 
         }
