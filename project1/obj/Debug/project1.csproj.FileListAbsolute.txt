@@ -1,0 +1,7 @@
+C:\Users\777\source\repos\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\777\source\repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\777\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\777\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\777\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\777\source\repos\project1\project1\obj\Debug\project1.pdb

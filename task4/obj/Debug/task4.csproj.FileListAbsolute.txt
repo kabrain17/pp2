@@ -1,0 +1,6 @@
+C:\Users\777\source\repos\project1\task4\bin\Debug\task4.exe.config
+C:\Users\777\source\repos\project1\task4\bin\Debug\task4.exe
+C:\Users\777\source\repos\project1\task4\bin\Debug\task4.pdb
+C:\Users\777\source\repos\project1\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\project1\task4\obj\Debug\task4.exe
+C:\Users\777\source\repos\project1\task4\obj\Debug\task4.pdb
